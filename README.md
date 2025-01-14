@@ -5,7 +5,6 @@ welcome to our sumo robot project repository , this repository includes the sour
 - <span style="color:blue">[Requirements](#requirements)</span>
 - <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
 - <span style="color:blue">[Software Setup](#software-setup)</span>
-- <span style="color:blue">[Explaination of Codes and Scripts](#Explaination of Codes and Scripts)</span>
 
 # requirements 
 -PIC16F877A
